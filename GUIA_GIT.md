@@ -4009,8 +4009,6 @@ Se ajudou você, ajudará outros QAs também. **Compartilhe!** ⭐
 
 **Feito com ☕, 💻 e muito ❤️ por QAs para QAs**
 
-**Última atualização:** Janeiro 2026  
-**Versão:** 1.0
 
 ---
 
