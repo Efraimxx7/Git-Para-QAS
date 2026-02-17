@@ -1469,13 +1469,6 @@ Parabéns por ter interesse em dominar Git!
 4. 💪 Pratique todos os dias
 5. 🎉 Celebre cada conquista!
 
-### Lembre-se:
-
-> "A prática leva à perfeição. Não tenha medo de errar - em repositórios de teste, você pode fazer qualquer coisa!"
-
-> "Git é como um superpoder para QAs. Depois que dominar, você nunca mais vai querer trabalhar sem versionamento."
-
-> "Commits frequentes salvam vidas (e projetos)."
 
 ---
 
