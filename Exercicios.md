@@ -1423,15 +1423,6 @@ Cada exercício tem:
 - 🤖 Comandos de verificação
 - 📋 Solução completa
 
-### Posso fazer em equipe?
-
-**Sim!** Alguns são melhores em grupo (especialmente conflitos e PRs).
-
-Recomendamos:
-- Níveis 1-2: Individual
-- Nível 3: Pode ser em dupla/trio
-
----
 
 # 📚 Recursos Adicionais
 
